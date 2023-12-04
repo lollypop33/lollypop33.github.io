@@ -1,0 +1,1 @@
+Created by Lori Bresnahan, this site displays samples of my technical writing. 
